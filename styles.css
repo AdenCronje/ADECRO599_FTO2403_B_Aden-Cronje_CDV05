@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-/* Custom Properties, update these for your own design */
+/* Custom Properties */
 
 :root {
   --ff-primary: "Source Sans Pro", sans-serif;
@@ -13,9 +13,9 @@
   --fw-reg: 300;
   --fw-bold: 900;
 
-  --clr-light: #fff;
+  --clr-light: #ffffff;
   --clr-dark: #303030;
-  --clr-accent: #16e0bd;
+  --clr-accent: #16e06d;
 
   --fs-h1: 3rem;
   --fs-h2: 2.25rem;
